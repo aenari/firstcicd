@@ -1,4 +1,4 @@
-pipeline {
+upipeline {
   agent any
   stages {
     stage('Pre Check') {
